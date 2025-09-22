@@ -19,3 +19,10 @@ Clone the repository and install dependencies:
 git clone https://github.com/frederickkofilumor/Automated-CFU-Counter.git
 cd Automated-CFU-Counter
 pip install -r requirements.txt
+
+## 🔗 Model Weights
+The trained YOLOv8nano model (`best.pt`) is not included in this repository due to file size limits.  
+
+📥 [Click here to download best.pt](https://drive.google.com/uc?export=download&id=1EkHKVDeS7vP0EJ1gxVQTxy_D7bljV1st)
+
+Once downloaded, place `best.pt` in the project folder (same directory as `cfu_counter.py`).
