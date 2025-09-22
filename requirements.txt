@@ -1,0 +1,6 @@
+opencv-python
+kivy
+picamera2
+ultralytics
+torch
+numpy
